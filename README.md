@@ -66,7 +66,7 @@ These mechanics and progression systems are planned features, not yet part of th
 ## Gameplay Screenshots
 
 ### Fitting Room Environment
-![Fitting Room](screenshots/01-fitting-room.png)
+![Fitting Room](screenshots/01-fitting-room-overview.png)
 
 ### Clothing Interaction
 ![Picking Up Clothing](screenshots/02-picking-up-shirt.png)
