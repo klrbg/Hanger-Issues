@@ -63,6 +63,21 @@ These mechanics and progression systems are planned features, not yet part of th
 - Visual Studio Code
 - Git & GitHub
 
+## Gameplay Screenshots
+
+### Fitting Room Environment
+![Fitting Room](screenshots/01-fitting-room.png)
+
+### Clothing Interaction
+![Picking Up Clothing](screenshots/02-picking-up-shirt.png)
+
+### Shift Progress
+![Shift Progress](screenshots/03-shift-progress.png)
+
+### Shift Completed
+![Shift Completed](screenshots/04-shift-completed.png)
+  
+
 ## About the Developer
 
 I'm a Digital Game Theory student at the University of Ss. Cyril and Methodius in Trnava, Slovakia.
