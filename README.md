@@ -93,5 +93,3 @@ I use AI assistance for learning, code suggestions, technical explanations and d
 HANGER ISSUES is an early-stage personal learning project.
 
 The current prototype is functional, but the full game is still in development. New mechanics, environments and gameplay systems are planned for future versions.
-
-**The full Unity source project is currently private. This repository serves as a public portfolio showcase, not a downloadable game release.**
